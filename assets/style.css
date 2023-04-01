@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #0040ff, #cc0000);
+}
+
+input {
+    background: none;
+    padding: 0%;
+    border: none;
+}
